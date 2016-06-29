@@ -20,6 +20,7 @@ github_username:  physolism
 
 name: 'Physolism'
 author: 'Peace Rittha'
+author_image: "/assets/images/me.jpg"
 
 # Build settings
 future: true
