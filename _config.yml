@@ -19,6 +19,7 @@ twitter_username: physolism
 github_username:  physolism
 
 # Build settings
+future: true
 markdown: kramdown
 exclude: [Rakefile]
 gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jemoji, jekyll-paginate]
