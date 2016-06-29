@@ -21,4 +21,4 @@ github_username:  physolism
 # Build settings
 markdown: kramdown
 exclude: [Rakefile]
-gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets]
+gems: [jekyll-coffeescript, jekyll-watch, jekyll-assets, jemoji, jekyll-paginate]
