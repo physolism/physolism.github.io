@@ -8,7 +8,8 @@
 # Site settings
 title: Repeace
 email: physolism@gmail.com
-description: > Foodie & Photography
+description: > # this means to ignore newlines until "baseurl:"
+  Foodie & Photography
 logo: "/assets/images/me.jpg"
 cover: "/assets/images/DSC_0465-2.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
