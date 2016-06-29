@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "kuay"
+title:  "Hello world"
 date:   2016-06-30 00:00:00
-categories: jekyll update
-tags: featured
+categories: hello world
+tags: test
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
 ---
-kuay
+สวัสดีจ้าชาวโลก !
