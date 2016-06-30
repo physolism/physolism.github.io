@@ -18,12 +18,34 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://physolism.github.io
 twitter_username: physolism
 github_username:  physolism
+twitter_handle: '@physolism'
+
 
 name: 'Physolism'
 author: 'Peace Rittha'
 author_image: "/assets/images/me.jpg"
 
 paginate: 5
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/physolism
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+  - icon:	facebook
+    url:	https://facebook.com/physolism
+    desc: Connect with my facebook
+    share_url: https://www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
+
+  - icon:	github
+    url:	https://github.com/physolism
+    desc:	Fork me on github
+
 
 # Build settings
 future: true
