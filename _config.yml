@@ -23,6 +23,8 @@ name: 'Physolism'
 author: 'Peace Rittha'
 author_image: "/assets/images/me.jpg"
 
+paginate: 5
+
 # Build settings
 future: true
 markdown: kramdown
