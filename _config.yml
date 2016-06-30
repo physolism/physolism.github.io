@@ -11,6 +11,7 @@ email: physolism@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Foodie & Photography
 logo: "/assets/images/me.jpg"
+home: "/assets/images/home.png"
 cover: "/assets/images/DSC_0465-2.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: http://localhost:4000 # the base hostname & protocol for your site
